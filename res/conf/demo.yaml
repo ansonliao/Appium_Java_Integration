@@ -1,0 +1,10 @@
+testType: "iOS"
+appDir: "/app/iosapp"
+app: "RoadKing.app"
+browserName:
+deviceName: "iPad Retina"
+platformName: "iOS"
+platformVersion: "7.1"
+nativeWebTap: "true"
+waitTime: 7
+imageSimilar: 0.7

@@ -1,0 +1,5 @@
+testType: "Selenium"
+url: "http://www4newuat.bocgins.com/zh-tw/website/online-apply-select/Home_Comprehensive/"
+browserName: "Firefox"
+locatorFile: "locator/locatorInCht.yaml"
+waitTime: 7

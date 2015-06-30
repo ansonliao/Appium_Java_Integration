@@ -1,0 +1,7 @@
+manager:
+  id: "admin"
+  pwd: "admin"
+
+agent:
+  id: "bel"
+  pwd: "123"

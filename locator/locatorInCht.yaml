@@ -1,0 +1,84 @@
+loginBtn:
+  type: linktext
+  value: "網上投保"
+
+item1Selector:
+  type: linktext
+  value: "請選擇"
+
+plan1:
+  type: linktext
+  value: "計劃一"
+
+crossArea:
+  type: name
+  value: "area_type"
+  index: 0
+
+saleableArea:
+  type: name
+  value: "area_type"
+  index: 1
+
+item2:
+  type: id
+  value: "home_safty_checkbox"
+
+domesticOpt:
+  type: id
+  value: "domestic_helper_checkbox"
+
+supplementaryProtection:
+  type: id
+  value: "supplementary_protection_checkbox"
+
+age2:
+  type: name
+  value: "insured_building_age"
+  index: 1
+
+1AQ1Y:
+  type: name
+  value: "buildings_coverage_question_1"
+  index: 0
+
+1AQ1N:
+  type: name
+  value: "buildings_coverage_question_1"
+  index: 1
+
+1AQ2Y:
+   type: name
+   value: "buildings_coverage_question_2"
+   index: 0
+
+1AQ2N:
+   type: name
+   value: "buildings_coverage_question_2"
+   index: 1
+
+1AQ3Y:
+  type: name
+  value: "buildings_coverage_question_3"
+  index: 0
+
+1AQ3N:
+  type: name
+  value: "buildings_coverage_question_3"
+  index: 1
+
+1ACreditNo:
+  type: id
+  value: "credit_card_number"
+
+1APromo:
+  type: id
+  value: "preferential_code"
+
+1ASubmit:
+  type: id
+  value: "calculate"
+
+1ASubmit1:
+  type: linktext
+  value: "計算保費"

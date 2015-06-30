@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BOCG 3Rd Wording Checking" parallel="false">
+  <test name="BOCG 3Rd Wording Checking">
+      <classes>
+          <class name="com.ma.qa.selenium.demo" />
+      </classes>
+  </test>
+  <listeners>
+  	<listener class-name="com.ma.qa.selenium.ScreenShotOnFailure" />
+	<listener class-name="org.uncommons.reportng.HTMLReporter" />
+	<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+  </listeners>
+  <usedefaultlisteners name="false" />
+</suite> <!-- Suite -->

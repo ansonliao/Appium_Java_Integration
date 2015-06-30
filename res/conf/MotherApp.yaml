@@ -1,0 +1,5 @@
+TestMode: "Selenium"
+URL: "http://218.213.170.235/admin/logout/"
+BrowserName: "Firefox"
+LocatorFile: "locator/locatorCht.yaml"
+TimeoutInSecond: 7
